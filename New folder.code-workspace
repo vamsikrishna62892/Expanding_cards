@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../New folder"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Calculator"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML",
+		"liveServer.settings.port": 5501
+	}
+}
