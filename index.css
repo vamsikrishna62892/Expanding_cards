@@ -2,7 +2,6 @@
  
 * {
     box-sizing: border-box;
-    /* to avoid width problems if padding */
 }
  
 #img-1 {
